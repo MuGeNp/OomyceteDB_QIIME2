@@ -10,9 +10,10 @@
 
 # USAGE
 
-'''
+```
 chmod +x qiime_taxa.sh
-'''
-'''
+```
+
+```
 ./qiime_taxa.sh [OomyceteDB_lastrelease]
-'''
+```
