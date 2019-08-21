@@ -29,7 +29,7 @@ awk '{gsub(">", "");print}' id3 > id4
 
 # Merging the taxa file and the id file
 
-paste  id4 taxa4 > taxonomy_db.txt
+paste  id4 taxa4 > taxonomy.txt
 
 # Deleting all the useless files
 
