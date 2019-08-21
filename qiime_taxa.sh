@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# The oomycete database from http://oomycetedb.cgrb.oregonstate.edu/search.html 
+# The oomycete database downloaded from http://oomycetedb.cgrb.oregonstate.edu/search.html 
 
 INFILE=$1
 
